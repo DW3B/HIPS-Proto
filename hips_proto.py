@@ -5,19 +5,19 @@
 # image that has a PGP encypted password to another image that has been
 # embedded as well. Within the embedded image is a message or small file.
 #		+----------------------------+
-#		|		Imgur-Posted Steg Image	 |
-#		|	+------------------------+ |
-#		|	|												 | |
-#		|	|		Password-Protected	 | |
-#		|	|		Embedded Steg Image	 | |
-#		|	| +--------------------+ | |
-#		| |	|  Super Secret Data | | |
+#		|   Imgur-Posted Steg Image  |
+#		| +------------------------+ |
+#		| |                        | |
+#		| |   Password-Protected   | |
+#		| |   Embedded Steg Image  | |
+#		| | +--------------------+ | |
+#		| | |  Super Secret Data | | |
 #		| | +--------------------+ | |
 #		| +------------------------+ |
-#		|	+------------------------+ |
-#		|	|	PGP Encrypted Password | |
-#		|	|   for Embedded Image	 | |
-#		|	+------------------------+ |
+#		| +------------------------+ |
+#		| | PGP Encrypted Password | |
+#		| |   for Embedded Image   | |
+#		| +------------------------+ |
 #		+----------------------------+
 #
 # This program is free software: you can redistribute it and/or modify
